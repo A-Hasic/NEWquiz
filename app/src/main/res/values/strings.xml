@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KVIZ NOVI</string>
+    <string name="True_odgovor">TRUE</string>
+    <string name="false_odgovor">FALSE</string>
+    <string name="next_dugme">NEXT</string>
+
+    <string name="back_button">BACK</string>
+
+
+</resources>
+
